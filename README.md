@@ -6,6 +6,8 @@ Credit risk analysis is the practice of determining the likelihood that a borrow
 ## Objective of Credit Risk Analysis
 The primary goal of credit risk analysis is to understand the risk involved in lending to different borrowers. By assessing the probability of default, financial institutions can make informed decisions about who to lend to, under what terms, and at what rates. This not only optimizes the risk-return profile but also helps in complying with various financial regulations.
 
+![codespace](./credit.jpg)
+
 ## Importance
 Proper credit risk management:
 
@@ -26,5 +28,3 @@ Model Building: Using statistical and machine learning models to learn from past
 Evaluation: Assessing the model’s performance using appropriate metrics.
 Optimization: Fine-tuning the model to enhance its predictive accuracy.
 By the end of this project, we expect to have a robust tool that can be used to improve decision-making in credit lending.
-
-![codespace](./credit.jpg)
