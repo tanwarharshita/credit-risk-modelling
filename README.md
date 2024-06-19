@@ -26,3 +26,5 @@ Model Building: Using statistical and machine learning models to learn from past
 Evaluation: Assessing the model’s performance using appropriate metrics.
 Optimization: Fine-tuning the model to enhance its predictive accuracy.
 By the end of this project, we expect to have a robust tool that can be used to improve decision-making in credit lending.
+
+![codespace](./credit.jpg)
