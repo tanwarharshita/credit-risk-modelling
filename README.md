@@ -1,4 +1,4 @@
-# credit-risk-modelling
+# Credit Risk Modelling
 
 ## Introduction
 Credit risk analysis is the practice of determining the likelihood that a borrower will default on their financial obligations. It is a crucial aspect of the financial industry as it helps lenders, such as banks and credit institutions, manage and mitigate potential losses due to defaults.
